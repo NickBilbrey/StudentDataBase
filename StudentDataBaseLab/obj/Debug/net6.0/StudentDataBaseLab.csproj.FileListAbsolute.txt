@@ -1,0 +1,15 @@
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\bin\Debug\net6.0\StudentDataBaseLab.exe
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\bin\Debug\net6.0\StudentDataBaseLab.deps.json
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\bin\Debug\net6.0\StudentDataBaseLab.runtimeconfig.json
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\bin\Debug\net6.0\StudentDataBaseLab.dll
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\bin\Debug\net6.0\StudentDataBaseLab.pdb
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\StudentDataBaseLab.csproj.AssemblyReference.cache
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\StudentDataBaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\StudentDataBaseLab.AssemblyInfoInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\StudentDataBaseLab.AssemblyInfo.cs
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\StudentDataBaseLab.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\StudentDataBaseLab.dll
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\refint\StudentDataBaseLab.dll
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\StudentDataBaseLab.pdb
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\StudentDataBaseLab.genruntimeconfig.cache
+C:\Users\Nicholas\source\repos\Grand circus\StudentDataBase\StudentDataBaseLab\obj\Debug\net6.0\ref\StudentDataBaseLab.dll

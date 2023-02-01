@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentDataBaseLab/1.0.0": {
+        "runtime": {
+          "StudentDataBaseLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentDataBaseLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
